@@ -10,19 +10,13 @@
   </a>
 </div>
 
-<!-- BADGES DE XARXES I CONTACTE (Substitueix EL_TEU_LINKEDIN, EL_TEU_INSTAGRAM i EL_TEU_EMAIL) -->
+<!-- BADGES DE CONTACTE I REPOSITORI -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/EL_TEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/EL_TEU_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/hlopezsoldado/Nothingan-Pri-S.A." target="_blank">
+  <a href="https://github.com/banfruns-ban/Nothingan-Pri-S.A." target="_blank">
     <img src="https://img.shields.io/badge/Repositori_Projecte-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Project" />
   </a>
-  <a href="mailto:EL_TEU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Correu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:banfruns@alumnat.copernic.cat">
+    <img src="https://img.shields.io/badge/banfruns%40alumnat.copernic.cat-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=banfruns-ban&label=VISITES&color=1f6feb&style=for-the-badge" alt="Profile Views" />
 </div>
@@ -135,11 +129,11 @@ Llenguatges, frameworks, bases de dades, eines i sistemes operatius amb què tre
         <li><b>QA i Testing:</b> Validació funcional completa i suites de proves unitàries i d'integració amb <b>JUnit 5</b>.</li>
       </ul>
       <p>
-        <a href="https://github.com/hlopezsoldado/Nothingan-Pri-S.A." target="_blank">
+        <a href="https://github.com/banfruns-ban/Nothingan-Pri-S.A." target="_blank">
           <img src="https://img.shields.io/badge/Veure_Repositori-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Veure Projecte a GitHub" />
         </a>
         &nbsp;
-        <a href="https://github.com/hlopezsoldado/Nothingan-Pri-S.A./blob/main/Memoria%20Nothingan%20Pri%20S.A.pdf" target="_blank">
+        <a href="https://github.com/banfruns-ban/Nothingan-Pri-S.A./blob/main/Memoria%20Nothingan%20Pri%20S.A.pdf" target="_blank">
           <img src="https://img.shields.io/badge/Memòria_i_Manual-PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Llegir Documentació PDF" />
         </a>
       </p>
@@ -180,14 +174,11 @@ Llenguatges, frameworks, bases de dades, eines i sistemes operatius amb què tre
 Obert a oportunitats de pràctiques (FCT / Formació Dual), projectes col·laboratius o intercanviar idees sobre desenvolupament de programari:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/EL_TEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/Connecta_a_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/banfruns-ban/Nothingan-Pri-S.A." target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Projecte-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projecte" />
   </a>
-  <a href="https://www.instagram.com/EL_TEU_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Segueix--me_a_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:EL_TEU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/EL_TEU_EMAIL%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:banfruns@alumnat.copernic.cat">
+    <img src="https://img.shields.io/badge/banfruns%40alumnat.copernic.cat-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
