@@ -46,6 +46,20 @@ Estudiant de Desenvolupament d'Aplicacions Multiplataforma (**DAM**) a l'**Insti
 
 ---
 
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=banfruns-ban&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banfruns-ban&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=banfruns-ban&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=banfruns-ban&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
 <div align="center">
   📫 Contacte directe: <a href="mailto:banfruns@alumnat.copernic.cat"><strong>banfruns@alumnat.copernic.cat</strong></a>
 </div>
