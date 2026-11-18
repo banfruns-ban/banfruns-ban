@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=175&section=header&text=Hola,%20sóc%20Brais%20Anfruns%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=175&section=header&text=Hola,%20sóc%20Brais%20Anfruns%20Rodríguez%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
 ### Desenvolupador Multiplataforma & Backend | Java · Spring Boot · MySQL · MongoDB
 **Institut Nicolau Copèrnic · Terrassa, Barcelona**
