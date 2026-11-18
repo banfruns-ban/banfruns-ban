@@ -35,9 +35,9 @@ Hola! Soc en **Brais Anfruns**, estudiant del Cicle Formatiu de Grau Superior en
       <h3>🚀 El meu perfil i aprenentatge</h3>
       <ul>
         <li>🎓 <b>Formació actual:</b> Estudiant de <b>DAM (Desenvolupament d'Aplicacions Multiplataforma)</b>, enfocat en l'arquitectura de programari per capes, codi net i qualitat del software.</li>
-        <li>🔭 <b>Projecte destacat:</b> Codesenvolupador de <b>Nothingan Pri S.A.</b>, una plataforma integral ERP/CRM de lloguer de vehicles, assumint el desenvolupament complet del <b>mòdul de gestió de flota i vehicles</b>, proves funcionals i tests automatitzats amb <b>JUnit 5</b>.</li>
+        <li>🔭 <b>Projecte destacat:</b> Codesenvolupador de <b>Nothingan Pri S.A.</b>, una plataforma integral ERP/CRM de lloguer de vehicles, liderant el <b>mòdul de gestió de flota i vehicles (RF40–RF49)</b>, el catàleg i perfil de client, i les proves unitàries amb <b>JUnit 5</b>.</li>
         <li>🗄️ <b>Persistència híbrida de dades:</b> Experiència combinant bases de dades relacionals (<b>MySQL / JPA</b>) amb emmagatzematge documental NoSQL (<b>MongoDB</b>).</li>
-        <li>🤝 <b>Treball en equip àgil:</b> Experiència pràctica treballant en sprints Scrum amb <b>Jira</b>, prototipatge d'interfícies amb <b>Figma</b> i control de versions a <b>GitLab / GitHub</b>.</li>
+        <li>🤝 <b>Treball en equip àgil:</b> Organització de tasques i treball en 4 sprints Scrum amb <b>Jira</b>, prototipatge d'interfícies amb <b>Figma</b> i control de versions a <b>GitLab / GitHub</b>.</li>
         <li>📍 <b>Ubicació:</b> Barcelona / Terrassa, Catalunya.</li>
       </ul>
     </td>
@@ -112,12 +112,12 @@ Llenguatges, frameworks, bases de dades, eines i sistemes operatius amb què tre
     <td width="55%" valign="top">
       <h3>🏢 Nothingan Pri S.A. — ERP i CRM de Lloguer de Vehicles</h3>
       <p>
-        Plataforma web full-stack desenvolupada a DAM (Grup 3) per digitalitzar la gestió de flota, validació de clients i reserves a Terrassa.
+        Plataforma web full-stack desenvolupada a 2n DAM (Grup 3 — Curs 2026-27) per digitalitzar la gestió integral de flota, clients i reserves a Terrassa.
       </p>
       <ul>
-        <li><b>Gestió de Flota i Vehicles:</b> Operacions CRUD completes, control de disponibilitat i estats d'activació, i filtratge del catàleg amb <b>Java, Spring Boot i MySQL</b>.</li>
-        <li><b>Fluxos de Lliurament i Retorn:</b> Registre fotogràfic d'estat (4 costats + fotografies addicionals il·limitades) i millores d'interfície amb <b>Thymeleaf i JS</b>.</li>
-        <li><b>QA i Testing:</b> Validació funcional completa i suites de proves unitàries i d'integració amb <b>JUnit 5</b>.</li>
+        <li><b>Gestió de Flota, Lliurament i Retorn (RF40–RF49):</b> CRUD complet de vehicles, activació/desactivació, filtratge multi-criteri i control d'entrega i devolució amb <b>Java, Spring Boot i MySQL</b>.</li>
+        <li><b>Portal Client i Frontend:</b> Desenvolupament del catàleg (amb filtratge per dies), perfil del client, reserves i unificació d'estils HTML/CSS amb <b>Thymeleaf i JS</b>.</li>
+        <li><b>QA, Refactorització i Testing:</b> Estandardització d'arquitectura de classes i proves unitàries del servei de vehicles amb <b>JUnit 5</b>.</li>
       </ul>
       <p>
         <a href="https://github.com/banfruns-ban/Nothingan-Pri-S.A." target="_blank">
@@ -145,14 +145,14 @@ Llenguatges, frameworks, bases de dades, eines i sistemes operatius amb què tre
       <h4>🏗️ Arquitectura i Disseny de Dades</h4>
       <ul>
         <li><b>Arquitectura MVC per Capes:</b> Separació neta entre entitats, repositoris, serveis, controladors i vistes Thymeleaf.</li>
-        <li><b>Persistència Híbrida:</b> Integritat relacional a <b>MySQL</b> per a les entitats principals del negoci (clients, flota, reserves) combinada amb col·leccions <b>MongoDB</b> per a documents, fotos d'inspecció, notificacions i registres del sistema.</li>
+        <li><b>Persistència Híbrida:</b> Integritat relacional a <b>MySQL</b> per a les entitats principals del negoci (usuaris, clients, agents, vehicles, reserves i incidències) combinada amb col·leccions <b>MongoDB</b> per a documents, fotos d'inspecció, notificacions i logs del sistema.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🔒 Seguretat, QA i Metodologia Àgil</h4>
       <ul>
-        <li><b>QA i Proves Automatitzades:</b> Proves funcionals exhaustives i suites de tests unitaris i d'integració amb <b>JUnit 5</b>, juntament amb control d'accés per rols i seguretat HTTPS.</li>
-        <li><b>Flux Scrum i Jira:</b> Desenvolupament iteratiu en 4 sprints amb gestió de backlog, modelatge UML/ER, prototipatge UI a Figma i revisió de branques Git.</li>
+        <li><b>QA i Proves Automatitzades:</b> Proves funcionals exhaustives i suites de tests unitaris amb <b>JUnit 5</b>, juntament amb xifratge de contrasenyes (hash), control d'accés per rols i seguretat HTTPS.</li>
+        <li><b>Flux Scrum i Jira:</b> Planificació i seguiment en 4 sprints amb gestió de backlog, modelatge UML/ER, prototipatge UI a Figma i revisió de branques Git.</li>
       </ul>
     </td>
   </tr>
@@ -177,4 +177,4 @@ Obert a oportunitats de pràctiques (FCT / Formació Dual), projectes col·labor
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
-</div>
+</div>s
