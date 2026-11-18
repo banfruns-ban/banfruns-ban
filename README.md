@@ -7,6 +7,7 @@
 
 [![Email](https://img.shields.io/badge/banfruns@alumnat.copernic.cat-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banfruns@alumnat.copernic.cat)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/banfruns-ban)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ilazaro1/projecte1_grup3)
 
 </div>
 
