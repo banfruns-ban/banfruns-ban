@@ -1,127 +1,166 @@
-<!-- CAPÇALERA PRINCIPAL ESTIL SLICE VERD MARAGDA -->
+<!-- BANNER PRINCIPAL AMB ANIMACIÓ (PALETA ÍNDIGO / VIOLETA FOSC) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:042f2e,50:0f766e,100:10b981&height=200&section=header&text=Brais%20Anfruns&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlign=35&fontAlignY=42&desc=Backend%20%26%20Multiplatform%20Developer%20%E2%80%A2%20DAM&descAlign=35&descAlignY=65&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:312e81,100:6366f1&height=210&section=header&text=Brais%20Anfruns&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolupament%20d'Aplicacions%20Multiplataforma%20(DAM)&descAlignY=58&descSize=16" width="100%" />
 </div>
 
-<!-- BARRA D'ENLLAÇOS RÀPIDS -->
+<!-- TEXT D'ESCRIPTURA DINÀMICA -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=A5B4FC&background=090D16&center=true&vCenter=true&width=640&height=55&lines=Construint+programari+real+i+escalable;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+JPA+%E2%80%A2+MySQL+%E2%80%A2+MongoDB;Thymeleaf+%E2%80%A2+HTML5+%E2%80%A2+CSS3+%E2%80%A2+JavaScript;Projecte+Nothingan+Pri+S.A.+(GitHub+%26+GitLab)" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- BADGES DE XARXES I CONTACTE -->
 <div align="center">
   <a href="https://github.com/banfruns-ban" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@banfruns--ban-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://gitlab.com/ilazaro1/projecte1_grup3" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-Nothingan_Pri_S.A.-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
+    <img src="https://img.shields.io/badge/Projecte_GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Project" />
   </a>
   <a href="mailto:banfruns@alumnat.copernic.cat">
-    <img src="https://img.shields.io/badge/Correu-banfruns%40alumnat.copernic.cat-0f766e?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=banfruns-ban&label=PERFIL&color=10b981&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=banfruns-ban&label=VISITES&color=4f46e5&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
 
-<!-- PRESENTACIÓ EN DUES COLUMNES -->
+---
+
+## 👨‍💻 Sobre mi
+
+Hola! Sóc **Brais Anfruns**, estudiant del Cicle Formatiu de Grau Superior en **Desenvolupament d'Aplicacions Multiplataforma (DAM)** a l'**Institut Nicolau Copèrnic** (Terrassa). Em centro en el desenvolupament backend, l'arquitectura per capes i la integració de bases de dades per crear aplicacions completes i segures.
+
+<!-- BLOC ASIMÈTRIC 1: 65% TEXT / 35% IL·LUSTRACIÓ DEV -->
 <table>
   <tr>
-    <td width="62%" valign="top">
-      <h2>👋 Hola, sóc en Brais</h2>
-      <p>
-        Estudiant de <b>Desenvolupament d'Aplicacions Multiplataforma (DAM)</b> a l'<b>Institut Nicolau Copèrnic</b> (Terrassa). Apassionat pel desenvolupament backend, l'arquitectura neta i el disseny de bases de dades escalables.
-      </p>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=900&color=10B981&background=00000000&vCenter=true&width=460&height=35&lines=%3E+Java+%26+Spring+Boot+Backend+Developer;%3E+Persist%C3%A8ncia+h%C3%ADbrida%3A+MySQL+%2B+MongoDB;%3E+Treball+col%C2%B7laboratiu+amb+Git+%26+Jira" alt="Typing SVG" />
-      </a>
+    <td width="65%" valign="top">
+      <h3>🚀 El meu perfil i trajectòria</h3>
       <ul>
-        <li>🎯 <b>Enfocament actual:</b> Construcció d'aplicacions robustes amb arquitectura MVC per capes.</li>
-        <li>🏢 <b>Projecte en curs:</b> Desenvolupament integral de la plataforma <b>Nothingan Pri S.A.</b></li>
+        <li>🎓 <b>Formació actual:</b> Estudiant <b>DAM (Desenvolupament d'Aplicacions Multiplataforma)</b>, enfocat en programació orientada a objectes i codi net.</li>
+        <li>🔭 <b>Projecte destacat:</b> Co-desenvolupador de <b>Nothingan Pri S.A.</b>, una plataforma integral ERP/CRM de lloguer de vehicles, liderant el <b>mòdul de reserves i portal de client</b>, cercadors dinàmics i seguretat per rols.</li>
+        <li>🗄️ <b>Persistència híbrida:</b> Experiència combinant bases de dades relacionals (<b>MySQL / JPA</b>) amb emmagatzematge documental NoSQL (<b>MongoDB</b>).</li>
+        <li>🤝 <b>Metodologia àgil:</b> Treball col·laboratiu per sprints Scrum amb <b>Jira</b> i control de versions amb <b>Git, GitHub i GitLab</b>.</li>
         <li>📍 <b>Ubicació:</b> Terrassa, Barcelona.</li>
       </ul>
     </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="110" alt="Java" />
-      <br/><br/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" width="150" alt="Spring Boot" />
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Developer Setup Animation" />
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-## 🧰 Ecosistema Tecnològic
+## 🛠️ Stack Tecnològic i Eines
 
+<!-- BLOC ASIMÈTRIC 2: 30% IL·LUSTRACIÓ / 70% BADGES -->
 <table>
   <tr>
-    <th align="left" width="28%">Àrea</th>
-    <th align="left" width="72%">Tecnologies i Eines</th>
-  </tr>
-  <tr>
-    <td><b>⚙️ Backend & Lògica</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/Spring_Data_JPA-0f766e?style=flat-square&logo=spring&logoColor=white" alt="JPA" />
+    <td width="30%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="90%" alt="Code & Git Animation" />
     </td>
-  </tr>
-  <tr>
-    <td><b>🎨 Frontend & Vistes</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🗄️ Bases de Dades</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🚀 Control de Versions & Àgil</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+    <td width="70%" valign="top">
+      <h4>💻 Llenguatges i Frameworks</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
+        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      </p>
+      <h4>🗄️ Bases de Dades</h4>
+      <p>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
+      <h4>🔧 Control de Versions i Gestió Àgil</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+      </p>
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-## 🚀 Projecte Principal
+## 📂 Projecte Destacat
 
-> ### 🚗 NOTHINGAN PRI S.A. — Sistema Integral de Lloguer de Vehicles
-> Plataforma web desenvolupada en equip a **DAM (Institut Nicolau Copèrnic)** per gestionar de manera centralitzada la flota de vehicles, els clients, els agents i el cicle complet de reserves.
->
-> **Aportacions tècniques clau:**
-> - **Mòdul de Reserves i Client:** Flux complet de reserva amb càlcul dinàmic de tarifes, descomptes prèmium, cercador avançat per codi (`#ID`) i dates, i gestió de ressenyes.
-> - **Arquitectura i Persistència:** Estructura MVC per capes amb **Spring Boot** i **Spring Data JPA** sobre **MySQL**, complementada amb **MongoDB** per a dades documentals.
-> - **Seguretat i Interfície:** Control d'accés per rols (`ADMIN`, `AGENT`, `CLIENT`) i vistes dinàmiques amb **Thymeleaf, HTML5, CSS3 i JavaScript**.
-> - **Metodologia:** Planificació per sprints amb **Jira** i integració contínua de branques a **GitLab**.
->
-> [![Explorar Codi a GitLab](https://img.shields.io/badge/Explorar_Repositori_a_GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ilazaro1/projecte1_grup3)
+<!-- BLOC ASIMÈTRIC 3: 62% DETALLS DEL PROJECTE / 38% IMATGE TECH -->
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <h3>🏢 Nothingan Pri S.A. — ERP & CRM de Lloguer de Vehicles</h3>
+      <p>
+        Plataforma web full-stack desenvolupada a DAM (Grup 3) per digitalitzar la gestió de flotes, validació de clients i reserves a Terrassa.
+      </p>
+      <ul>
+        <li><b>Mòdul de Reserves i Client:</b> Procés complet de reserva, càlcul dinàmic de tarifes, historial amb filtres per codi (<code>#ID</code>) i dates, i notificacions amb <b>Java, Spring Boot, JPA i MySQL</b>.</li>
+        <li><b>Seguretat i Interfície:</b> Control d'accés basat en rols (<code>ADMIN</code>, <code>AGENT</code>, <code>CLIENT</code>), navegació unificada i vistes dinàmiques amb <b>Thymeleaf, HTML5, CSS3 i JavaScript</b>.</li>
+        <li><b>Gestió i Control de Versions:</b> Treball col·laboratiu per sprints amb <b>Jira</b> i integració de branques a <b>Git / GitLab</b>.</li>
+      </ul>
+      <p>
+        <a href="https://gitlab.com/ilazaro1/projecte1_grup3" target="_blank">
+          <img src="https://img.shields.io/badge/Veure_Repositori-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Veure Projecte a GitLab" />
+        </a>
+      </p>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="Full Stack Architecture Animation" />
+    </td>
+  </tr>
+</table>
 
-<br/>
+---
 
-## 📬 Contacte
+## ⚙️ Pràctiques d'Enginyeria i Desenvolupament
 
-Estic obert a oportunitats de **pràctiques (FCT / Formació Dual)** o col·laboracions en projectes de desenvolupament:
+<!-- BLOC ASIMÈTRIC 4: 55% ARQUITECTURA / 45% SEGURETAT I ÀGIL -->
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h4>🏗️ Arquitectura i Disseny de Dades</h4>
+      <ul>
+        <li><b>Arquitectura MVC per capes:</b> Separació neta entre entitats, repositoris, serveis, controladors i vistes Thymeleaf.</li>
+        <li><b>Persistència híbrida:</b> Integritat relacional a <b>MySQL / JPA</b> per a les entitats principals del negoci (clients, flota, reserves) combinada amb <b>MongoDB</b> per a dades documentals i registres.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h4>🔒 Seguretat i Metodologia Àgil</h4>
+      <ul>
+        <li><b>Seguretat:</b> Xifrat de contrasenyes, control d'accés per rols amb Spring Security i validació de dades.</li>
+        <li><b>Flux Scrum i Jira:</b> Desenvolupament iteratiu per sprints amb gestió de tasques a <b>Jira</b> i control de branques amb <b>Git</b>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Contacte
+
+Obert a oportunitats de **pràctiques (FCT / Formació Dual)**, projectes col·laboratius o intercanviar idees sobre desenvolupament de programari:
 
 <div align="center">
-  <a href="mailto:banfruns@alumnat.copernic.cat">
-    <img src="https://img.shields.io/badge/Enviar_Correu-banfruns%40alumnat.copernic.cat-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://github.com/banfruns-ban" target="_blank">
-    <img src="https://img.shields.io/badge/Perfil_GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://gitlab.com/ilazaro1/projecte1_grup3" target="_blank">
-    <img src="https://img.shields.io/badge/Repositori_GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  </a>
+  <a href="mailto:banfruns@alumnat.copernic.cat">
+    <img src="https://img.shields.io/badge/banfruns%40alumnat.copernic.cat-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-<!-- PEU DE PÀGINA ESTIL SLICE -->
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:10b981,50:0f766e,100:042f2e&height=110&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:312e81,100:090d16&height=120&section=footer" width="100%" />
 </div>
