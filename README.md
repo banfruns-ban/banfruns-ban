@@ -2,12 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=175&section=header&text=Hola,%20soy%20Brais%20Anfruns%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-### Desarrollador Web Full-Stack | Java · Spring Boot · MySQL
+### Desarrollador Multiplataforma & Backend | Java · Spring Boot · MySQL
 **Institut Nicolau Copèrnic · Terrassa, Barcelona**
 
 [![Email](https://img.shields.io/badge/banfruns@alumnat.copernic.cat-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banfruns@alumnat.copernic.cat)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[tu-usuario-github])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[tu-linkedin])
 
 </div>
 
@@ -15,10 +14,10 @@
 
 ### 👨‍💻 Sobre mí
 
-Estudiante de Desarrollo de Aplicaciones Web (DAW) en el **Institut Nicolau Copèrnic** (Terrassa), enfocado en el desarrollo backend, arquitectura MVC, bases de datos relacionales y creación de aplicaciones web completas y seguras.
+Estudiante de Desarrollo de Aplicaciones Multiplataforma (**DAM**) en el **Institut Nicolau Copèrnic** (Terrassa), enfocado en el desarrollo backend, arquitectura MVC, bases de datos relacionales y creación de aplicaciones completas y seguras.
 
 - 🔭 Actualmente desarrollando **NOTHINGAN PRI S.A.**, una plataforma integral de gestión y alquiler de vehículos.
-- 🌱 Profundizando en **Spring Boot, Spring Security, JPA/Hibernate** y diseño de interfaces limpias y responsivas.
+- 🌱 Profundizando en **Spring Boot, Spring Security, JPA/Hibernate** y desarrollo de aplicaciones multiplataforma.
 - 🤝 Experiencia trabajando en equipo con **Git, GitHub** y flujos de trabajo colaborativos.
 - 📍 Ubicación: **Terrassa, Barcelona**.
 
@@ -29,7 +28,6 @@ Estudiante de Desarrollo de Aplicaciones Web (DAW) en el **Institut Nicolau Cop�
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/></a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="42" height="42"/></a>
-  <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/thymeleaf/thymeleaf-icon.svg" alt="Thymeleaf" width="42" height="42"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/></a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="42" height="42"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/></a>
@@ -41,21 +39,11 @@ Estudiante de Desarrollo de Aplicaciones Web (DAW) en el **Institut Nicolau Cop�
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Proyecto Destacado
 
 | Proyecto | Descripción | Stack | Enlace |
 | :--- | :--- | :--- | :--- |
-| **NOTHINGAN PRI S.A.** | Plataforma web full-stack para gestión de flotas y alquiler de vehículos con roles (`ADMIN`, `AGENT`, `CLIENT`), catálogo dinámico, reservas con tarifas automáticas, validación de clientes, reseñas e informes económicos. | `Java` `Spring Boot` `Spring Security` `MySQL` `Thymeleaf` `Bootstrap` | [Ver repositorio](https://github.com/[tu-usuario-github]/[nombre-repo]) |
-| **[Proyecto 2]** | *[Añade aquí otro proyecto del ciclo, por ejemplo una web, ERP o app móvil]* | `HTML` `CSS` `JS` | [Ver repositorio](https://github.com/[tu-usuario-github]/[repo-2]) |
-
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=[tu-usuario-github]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[tu-usuario-github]&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+| **NOTHINGAN PRI S.A.** | Plataforma integral para gestión de flotas y alquiler de vehículos con roles (`ADMIN`, `AGENT`, `CLIENT`), catálogo dinámico, reservas con tarifas automáticas, validación de clientes, reseñas e informes económicos. | `Java` `Spring Boot` `Spring Security` `MySQL` `Bootstrap` | [Ver repositorio](https://github.com/[tu-usuario-github]/[nombre-repo]) |
 
 ---
 
